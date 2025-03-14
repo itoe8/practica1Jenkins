@@ -14,7 +14,7 @@ def divide(a, b):
 
 if __name__ == "__main__":
     print("Calculadora en Python")
-    print("Suma: 5 + 3 =", add(5, 3))
+    print("Suma: 5 + 4 =", add(5, 4))
     print("Resta: 5 - 3 =", subtract(5, 3))
     print("Multiplicació: 5 * 3 =", multiply(5, 3))
     print("Divisió: 5 / 3 =", divide(5, 3))
